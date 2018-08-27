@@ -1,0 +1,16 @@
+{
+ "name": "node-api-rest-example",
+ "version": "2.0.0",
+ "dependencies": {
+  "body-parser": "^1.5.1",
+  "chai": "*",
+  "express": "^4.7.1",
+  "method-override": "^2.1.2",
+  "mocha": "*",
+  "pkg": "^4.3.4",
+  "supertest": "*"
+ },
+ "scripts": {
+  "test": "mocha --exit"
+ }
+}
